@@ -2,7 +2,7 @@
 This Power BI project was created for the Onyx Data August 2024 Challenge. It provides an in-depth analysis of the financial performance of a sporting goods manufacturer, focusing on key financial metrics such as revenue, expenses, and profitability ratios. #PowerBI
 
 <div align="center">
-<img src="" alt="Logo" width="800" height="500">
+<img src="https://github.com/IrisMejuto/Financial-Analysis-/blob/main/Images/Financial%20Analysis.png" alt="Logo" width="800" height="500">
 </div>
 
 ## 📊 Dashboard
