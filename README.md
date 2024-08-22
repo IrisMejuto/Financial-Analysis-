@@ -9,7 +9,7 @@ This Power BI project was created for the Onyx Data August 2024 Challenge. It pr
 You can access the interactive dashboard made in Power BI at the following link 👉🏼 [📊 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTk5ZDE4YmQtZjQ4OC00ZmJlLTg4MDYtZjk2Yjk4MDkxNTI1IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ## 📊 Download report
-You can download the report in a pbix file [🗃️Report Power BI]()
+You can download the report in a pbix file [🗃️Report Power BI](https://github.com/IrisMejuto/Financial-Analysis-/blob/main/PowerBI%20File/Financial%20Analysis.pbix)
 
 ## 🪟 Overview
 In this project, conducted with Power BI, I analyze the financial performance of a sporting goods manufacturer. The report includes detailed visualizations that provide insights into revenue and expense trends, profitability metrics, and financial ratios across different business lines.
