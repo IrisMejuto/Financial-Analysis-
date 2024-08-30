@@ -1,5 +1,5 @@
 # Financial-Analysis
-This Power BI project was the (winner of Challenge)[https://github.com/IrisMejuto/Financial-Analysis-/blob/main/Images/Winner%20Certificate.pdf] August 2024 by Onyx Data and Zoom Charts. It provides an in-depth analysis of the financial performance of a sporting goods manufacturer, focusing on key financial metrics such as revenue, expenses, and profitability ratios. #PowerBI
+This Power BI project was the [winner of Challenge](https://github.com/IrisMejuto/Financial-Analysis-/blob/main/Images/Winner%20Certificate.pdf) August 2024 by Onyx Data and Zoom Charts. It provides an in-depth analysis of the financial performance of a sporting goods manufacturer, focusing on key financial metrics such as revenue, expenses, and profitability ratios. #PowerBI
 
 <div align="center">
 <img src="https://github.com/IrisMejuto/Financial-Analysis-/blob/main/Images/Financial%20Analysis.png" alt="Logo" width="800" height="500">
