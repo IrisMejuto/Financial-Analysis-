@@ -6,7 +6,7 @@ This Power BI project was the [winner of Challenge](https://github.com/IrisMejut
 </div>
 
 ## 📊 Dashboard
-You can access the interactive dashboard made in Power BI at the following link 👉🏼 [📊 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjYyYjc0ZmEtODYzMi00NmFiLTliYWEtMzQ1MTczZjdlZTQyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+You can access the interactive dashboard made in Power BI at the following link 👉🏼 [📊 Dashboard](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/9ed341a50f07f39af38fdbebd73f2918?challenge=onyx-data-august-2024)
 
 ## 🗃️ Download report
 You can download the report in a pbix file [🗃️Report Power BI](https://github.com/IrisMejuto/Financial-Analysis-/blob/main/Financial%20Analysis.pbix)
